@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxiosInstance = axios.create({
-  baseURL: "https://react-client-five.vercel.app/", // alamat json-server
+  baseURL: "https://backend-client-beta.vercel.app/", // alamat json-server
   headers: {
     "Content-Type": "application/json",
   },
